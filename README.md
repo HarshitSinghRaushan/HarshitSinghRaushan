@@ -4,8 +4,10 @@
  <a href="http://discord.com/users/ÆÆ#7413" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ÆÆ#7413" height="40" width="30" /></a>&nbsp;
 
  </p>
-
+ 
  ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+ 
+# Complete Profile Refactoring currently in progress...Changed repository visibility to private...
 
 ### <img alt="Coder GIF" width=69 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" /> About Me:
  - 🏦 I'm a Programmer.
@@ -34,7 +36,6 @@
  ---
 ### My  <img src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='53'/>  Stats:
   
-***Complete Profile Refactoring currently in progress...Changed repository visibility to private...***
 
 
  <!--START_SECTION:waka-->
