@@ -33,10 +33,8 @@
 
  ---
 ### My  <img src='https://raw.githubusercontent.com/Thagoo/Thagoo/master/github.gif' width='53'/>  Stats:
-  ![Aeyitch's github stats](https://github-readme-stats.vercel.app/api?username=HarshitSinghRaushan&show_icons=true&title_color=8a30ff&&icon_color=808080&text_color=ff6464&bg_color=000000&hide_border=true&hide=["stars"])
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSinghRaushan&layout=compact&title_color=8a30ff&text_color=ff6464&hide_border=true&bg_color=000000)](https://github.com/HarshitSinghRaushan/github-readme-stats)
- [![Aeyitch's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HarshitSinghRaushan&theme=buefy-dark&hide_border=true&background=000000)](https://git.io/streak-stats)
-
+  
+***Complete Profile Refactoring currently in progress...Changed repository visibility to private...***
 
 
  <!--START_SECTION:waka-->
